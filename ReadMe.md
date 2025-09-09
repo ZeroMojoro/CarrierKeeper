@@ -29,7 +29,7 @@ This is a non-force bearing component. Any filament can be used including standa
 
 The following orientations and settings are recommended for printing.
 
-![Print Orientation](img/CarrierKeeperPrintOrientation-v1.png)
+![Print Orientation](img/CarrierKeeperPrintOrientation-V1.png)
 
 #### Keeper component
 - Walls: 4
