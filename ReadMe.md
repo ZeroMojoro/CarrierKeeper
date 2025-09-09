@@ -32,6 +32,8 @@ The following orientations and settings are recommended for printing.
 ![Print Orientation](img/CarrierKeeperPrintOrientation-V1.png)
 
 #### Keeper component
+
+- Layer Height: 0.2mm
 - Walls: 4
 - Bottom/Top Shells: 6
 - Infill: 25%
@@ -42,6 +44,7 @@ Print the Keeper component vertically with the threads oriented at the top of th
 
 #### Cap Screw component
 
+- Layer Height: 0.2mm
 - Walls: 4
 - Bottom/Top Shells: 6
 - Infill: 100%
