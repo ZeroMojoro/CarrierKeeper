@@ -1,6 +1,6 @@
 # Carrier Keeper (v1)
 
-## A simple case for storing a standard AR-15/M-16 Bolt Carrier Group or a CMMG-Style conversion bolt (with 556 collar)
+## A simple case for storing a standard AR-15/M-16 Bolt Carrier Group or a CMMG-Style conversion bolt (with 556 collar or 22 collar)
 
 
 ![Carrier Keeper Render](img/CarrierKeeperRender-Assembled-V1.png)
@@ -16,7 +16,15 @@ It is designed to be compatible with a standard AR-15/M-16 bolt carrier group, o
 
 The design features a simple screw-top interface for securing the keeper to the cap.
 
-It can be printed on most printers (231mm max height) with the filament of your choice. No supports should be necessary, although a brim is highly recommended for some components. See below for details.
+It can be printed on most printers (231.5mm max height) with the filament of your choice. No supports should be necessary, although a brim is highly recommended for some components. See below for details.
+
+There are 3 different size options available for your needs.
+
+1. The AR-15 sized version fits a standard AR-15/M-16 BCG or a Conversion Bolt with a 22 collar
+
+2. The Conversion 22 version only fits a Conversion bolt with a 22 collar
+
+3. The Conversion 556 fits all platforms including an AR-15/M-16, Conversion Bolt with 22 collar or Conversion Bolt with 556 collar
 
 ## Instructions
 
@@ -32,6 +40,8 @@ The following orientations and settings are recommended for printing.
 ![Print Orientation](img/CarrierKeeperPrintOrientation-V1.png)
 
 #### Keeper component
+
+- Layer Height: 0.2mm
 - Walls: 4
 - Bottom/Top Shells: 6
 - Infill: 25%
@@ -42,6 +52,7 @@ Print the Keeper component vertically with the threads oriented at the top of th
 
 #### Cap Screw component
 
+- Layer Height: 0.2mm
 - Walls: 4
 - Bottom/Top Shells: 6
 - Infill: 100%
